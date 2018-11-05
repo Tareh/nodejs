@@ -1,1 +1,1 @@
-  event.setResponse('HELLO WORLD FROM PUTO', 200, 'applicaton/json');
+  event.setResponse('HELLO WORLD FREDY', 200, 'applicaton/json');
